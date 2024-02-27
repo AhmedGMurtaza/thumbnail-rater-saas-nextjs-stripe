@@ -1,0 +1,1 @@
+# thumbnail-rater-saas-nextjs-stripe
